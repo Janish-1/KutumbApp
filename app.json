@@ -1,4 +1,10 @@
 {
-  "name": "Kutumbh",
-  "displayName": "Kutumbh"
+  "expo": {
+    "name": "Kutumbh",
+    "slug": "Kutumbh",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
 }
